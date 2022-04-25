@@ -1,0 +1,2 @@
+class Benevole < ApplicationRecord
+end

@@ -1,0 +1,29 @@
+[14:01:20.827] Global cache location '/home/croy/.cache/typescript/4.6', safe file path '/home/croy/Perso/rails/React-app/acf-app/node_modules/typescript/lib/typingSafeList.json', types map path /home/croy/Perso/rails/React-app/acf-app/node_modules/typescript/lib/typesMap.json
+[14:01:20.828] Processing cache location '/home/croy/.cache/typescript/4.6'
+[14:01:20.828] Trying to find '/home/croy/.cache/typescript/4.6/package.json'...
+[14:01:20.829] Loaded content of '/home/croy/.cache/typescript/4.6/package.json': {"private":true,"dependencies":{"types-registry":"^0.1.589"},"devDependencies":{"@types/electron-devtools-installer":"^2.2.1","@types/eslint":"^8.4.1","@types/eslint-config-prettier":"^6.11.0","@types/prettier":"^2.6.0","@types/react":"^18.0.6","@types/react-dom":"^18.0.2","@types/testing-library__jest-dom":"^5.14.3"}}
+[14:01:20.829] Loaded content of '/home/croy/.cache/typescript/4.6/package-lock.json'
+[14:01:20.839] Adding entry into typings cache: 'electron-devtools-installer' => '/home/croy/.cache/typescript/4.6/node_modules/@types/electron-devtools-installer/index.d.ts'
+[14:01:20.842] Adding entry into typings cache: 'eslint' => '/home/croy/.cache/typescript/4.6/node_modules/@types/eslint/index.d.ts'
+[14:01:20.843] Adding entry into typings cache: 'eslint-config-prettier' => '/home/croy/.cache/typescript/4.6/node_modules/@types/eslint-config-prettier/index.d.ts'
+[14:01:20.845] Adding entry into typings cache: 'prettier' => '/home/croy/.cache/typescript/4.6/node_modules/@types/prettier/index.d.ts'
+[14:01:20.850] Adding entry into typings cache: 'react' => '/home/croy/.cache/typescript/4.6/node_modules/@types/react/index.d.ts'
+[14:01:20.856] Adding entry into typings cache: 'react-dom' => '/home/croy/.cache/typescript/4.6/node_modules/@types/react-dom/index.d.ts'
+[14:01:20.857] Adding entry into typings cache: 'testing-library__jest-dom' => '/home/croy/.cache/typescript/4.6/node_modules/@types/testing-library__jest-dom/index.d.ts'
+[14:01:20.857] Finished processing cache location '/home/croy/.cache/typescript/4.6'
+[14:01:20.858] Process id: 25256
+[14:01:20.858] NPM location: /usr/bin/npm (explicit '--npmLocation' not  provided)
+[14:01:20.858] validateDefaultNpmLocation: false
+[14:01:20.858] Npm config file: /home/croy/.cache/typescript/4.6/package.json
+[14:01:20.858] Updating types-registry npm package...
+[14:01:20.858] Exec: /usr/bin/npm install --ignore-scripts types-registry@latest
+[14:01:22.089]     Succeeded. stdout:
+    
+    up to date, audited 29 packages in 995ms
+
+3 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+[14:01:22.089] Updated types-registry npm package

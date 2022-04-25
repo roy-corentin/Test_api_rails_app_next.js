@@ -1,0 +1,225 @@
+Info 0    [23:13:14.215] Starting TS Server
+Info 1    [23:13:14.216] Version: 4.6.3
+Info 2    [23:13:14.216] Arguments: /usr/bin/node /home/croy/Perso/rails/React-app/acf-front/node_modules/typescript/lib/tsserver.js --logFile /home/croy/Perso/rails/React-app/.log/tsserver.log --logVerbosity info --cancellationPipeName /tmp/f5a10af033a3cbf0c99f4e526c68737d/tscancellation*
+Info 3    [23:13:14.216] Platform: linux NodeVersion: 14 CaseSensitive: true
+Info 4    [23:13:14.216] ServerMode: undefined syntaxOnly: false hasUnknownServerMode: undefined
+Info 5    [23:13:14.235] Format host information updated
+Info 6    [23:13:14.805] Search path: /home/croy/Perso/rails/React-app/acf-front/components
+Info 7    [23:13:14.807] For info: /home/croy/Perso/rails/React-app/acf-front/components/Event.tsx :: Config file name: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json
+Info 8    [23:13:14.807] Creating configuration project /home/croy/Perso/rails/React-app/acf-front/tsconfig.json
+Info 9    [23:13:14.849] Config: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json : {
+ "rootNames": [
+  "/home/croy/Perso/rails/React-app/acf-front/next-env.d.ts",
+  "/home/croy/Perso/rails/React-app/acf-front/pages/api/hello.ts",
+  "/home/croy/Perso/rails/React-app/acf-front/components/ACF.tsx",
+  "/home/croy/Perso/rails/React-app/acf-front/components/Event.tsx",
+  "/home/croy/Perso/rails/React-app/acf-front/components/Events.tsx",
+  "/home/croy/Perso/rails/React-app/acf-front/pages/_app.tsx",
+  "/home/croy/Perso/rails/React-app/acf-front/pages/index.tsx"
+ ],
+ "options": {
+  "target": 1,
+  "lib": [
+   "lib.dom.d.ts",
+   "lib.dom.iterable.d.ts",
+   "lib.esnext.d.ts"
+  ],
+  "allowJs": true,
+  "skipLibCheck": true,
+  "strict": true,
+  "forceConsistentCasingInFileNames": true,
+  "noEmit": true,
+  "esModuleInterop": true,
+  "module": 99,
+  "moduleResolution": 2,
+  "resolveJsonModule": true,
+  "isolatedModules": true,
+  "jsx": 1,
+  "incremental": true,
+  "configFilePath": "/home/croy/Perso/rails/React-app/acf-front/tsconfig.json"
+ }
+}
+Info 10   [23:13:15.335] Starting updateGraphWorker: Project: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json
+Info 11   [23:13:18.350] Finishing updateGraphWorker: Project: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json Version: 1 structureChanged: true structureIsReused:: Not Elapsed: 3015.5535289999098ms
+Info 12   [23:13:18.351] Project '/home/croy/Perso/rails/React-app/acf-front/tsconfig.json' (Configured)
+Info 13   [23:13:18.351] 	Files (200)
+
+Info 14   [23:13:18.351] -----------------------------------------------
+Info 15   [23:16:34.290] DirectoryWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front :: WatchInfo: /home/croy/Perso/rails/React-app/acf-front 1 undefined Config: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json WatchType: Wild card directory
+Info 16   [23:16:34.291] Elapsed:: 1.166245000436902ms DirectoryWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front :: WatchInfo: /home/croy/Perso/rails/React-app/acf-front 1 undefined Config: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json WatchType: Wild card directory
+Info 17   [23:16:34.562] Starting updateGraphWorker: Project: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json
+Info 18   [23:16:34.590] Finishing updateGraphWorker: Project: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json Version: 2 structureChanged: true structureIsReused:: Not Elapsed: 27.90965100005269ms
+Info 19   [23:16:34.590] Project '/home/croy/Perso/rails/React-app/acf-front/tsconfig.json' (Configured)
+Info 20   [23:16:34.590] 	Files (0)
+
+Info 21   [23:16:34.590] -----------------------------------------------
+Info 22   [23:16:34.590] FileWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front/tsconfig.json 2:: WatchInfo: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json 2000 undefined Project: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json WatchType: Config file
+Info 23   [23:16:34.591] `remove Project::
+Info 24   [23:16:34.591] Project '/home/croy/Perso/rails/React-app/acf-front/tsconfig.json' (Configured)
+Info 25   [23:16:34.591] 	Files (0)
+
+Info 26   [23:16:34.591] -----------------------------------------------
+Info 27   [23:16:34.592] Search path: /home/croy/Perso/rails/React-app/acf-front/components
+Info 28   [23:16:34.592] For info: /home/croy/Perso/rails/React-app/acf-front/components/Event.tsx :: No config files found.
+Info 29   [23:16:34.593] Elapsed:: 2.4169280007481575ms FileWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front/tsconfig.json 2:: WatchInfo: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json 2000 undefined Project: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json WatchType: Config file
+Info 30   [23:16:34.593] FileWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front/next-env.d.ts 2:: WatchInfo: /home/croy/Perso/rails/React-app/acf-front/next-env.d.ts 500 undefined WatchType: Closed Script info
+Info 31   [23:16:34.593] Elapsed:: 0.2877169996500015ms FileWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front/next-env.d.ts 2:: WatchInfo: /home/croy/Perso/rails/React-app/acf-front/next-env.d.ts 500 undefined WatchType: Closed Script info
+Info 32   [23:16:34.593] FileWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front/pages/api/hello.ts 2:: WatchInfo: /home/croy/Perso/rails/React-app/acf-front/pages/api/hello.ts 500 undefined WatchType: Closed Script info
+Info 33   [23:16:34.593] Elapsed:: 0.023329000920057297ms FileWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front/pages/api/hello.ts 2:: WatchInfo: /home/croy/Perso/rails/React-app/acf-front/pages/api/hello.ts 500 undefined WatchType: Closed Script info
+Info 34   [23:16:34.593] FileWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front/components/ACF.tsx 2:: WatchInfo: /home/croy/Perso/rails/React-app/acf-front/components/ACF.tsx 500 undefined WatchType: Closed Script info
+Info 35   [23:16:34.593] Elapsed:: 0.015459999442100525ms FileWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front/components/ACF.tsx 2:: WatchInfo: /home/croy/Perso/rails/React-app/acf-front/components/ACF.tsx 500 undefined WatchType: Closed Script info
+Info 36   [23:16:34.593] FileWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front/components/Events.tsx 2:: WatchInfo: /home/croy/Perso/rails/React-app/acf-front/components/Events.tsx 500 undefined WatchType: Closed Script info
+Info 37   [23:16:34.593] Elapsed:: 0.011792000383138657ms FileWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front/components/Events.tsx 2:: WatchInfo: /home/croy/Perso/rails/React-app/acf-front/components/Events.tsx 500 undefined WatchType: Closed Script info
+Info 38   [23:16:37.107] Before ensureProjectForOpenFiles:
+Info 39   [23:16:37.115] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 40   [23:16:37.122] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1 structureChanged: true structureIsReused:: Not Elapsed: 7.218772999942303ms
+Info 41   [23:16:37.122] Project '/dev/null/inferredProject1*' (Inferred)
+Info 42   [23:16:37.122] 	Files (1)
+
+Info 43   [23:16:37.122] -----------------------------------------------
+Info 44   [23:16:37.131] AutoImportProviderProject: found 1 root files in 1 dependencies in 8.417903998866677 ms
+Info 45   [23:16:37.135] Starting updateGraphWorker: Project: /dev/null/autoImportProviderProject1*
+Info 46   [23:16:37.154] Finishing updateGraphWorker: Project: /dev/null/autoImportProviderProject1* Version: 1 structureChanged: true structureIsReused:: Not Elapsed: 18.84710100106895ms
+Info 47   [23:16:37.154] Project '/dev/null/autoImportProviderProject1*' (AutoImportProvider)
+Info 48   [23:16:37.154] 	Files (1)
+
+Info 49   [23:16:37.154] -----------------------------------------------
+Info 50   [23:16:37.154] After ensureProjectForOpenFiles:
+Info 51   [23:16:37.155] got projects updated in background, updating diagnostics for /home/croy/Perso/rails/React-app/acf-front/components/Event.tsx
+Info 52   [23:17:01.148] FileWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front/node_modules/typescript/lib/lib.es2016.full.d.ts 0:: WatchInfo: /home/croy/Perso/rails/React-app/acf-front/node_modules/typescript/lib/lib.es2016.full.d.ts 500 undefined Project: /dev/null/inferredProject1* WatchType: Missing file
+Info 53   [23:17:01.148] Elapsed:: 0.17131399922072887ms FileWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front/node_modules/typescript/lib/lib.es2016.full.d.ts 0:: WatchInfo: /home/croy/Perso/rails/React-app/acf-front/node_modules/typescript/lib/lib.es2016.full.d.ts 500 undefined Project: /dev/null/inferredProject1* WatchType: Missing file
+Info 54   [23:17:01.148] FileWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front/tsconfig.json 0:: WatchInfo: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json 2000 undefined WatchType: Config file for the inferred project root
+Info 55   [23:17:01.148] Search path: /home/croy/Perso/rails/React-app/acf-front/components
+Info 56   [23:17:01.148] For info: /home/croy/Perso/rails/React-app/acf-front/components/Event.tsx :: Config file name: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json
+Info 57   [23:17:01.149] Creating configuration project /home/croy/Perso/rails/React-app/acf-front/tsconfig.json
+Info 58   [23:17:01.149] Elapsed:: 1.2322320006787777ms FileWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front/tsconfig.json 0:: WatchInfo: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json 2000 undefined WatchType: Config file for the inferred project root
+Info 59   [23:17:01.399] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 60   [23:17:02.729] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 2 structureChanged: true structureIsReused:: Not Elapsed: 1330.1764500010759ms
+Info 61   [23:17:02.729] Project '/dev/null/inferredProject1*' (Inferred)
+Info 62   [23:17:02.729] 	Files (103)
+
+Info 63   [23:17:02.730] -----------------------------------------------
+Info 64   [23:17:02.730] Project '/dev/null/autoImportProviderProject1*' (AutoImportProvider)
+Info 65   [23:17:02.730] 	Files (1)
+
+Info 66   [23:17:02.730] -----------------------------------------------
+Info 67   [23:17:02.731] Loading configured project /home/croy/Perso/rails/React-app/acf-front/tsconfig.json
+Info 68   [23:17:02.744] Config: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json : {
+ "rootNames": [
+  "/home/croy/Perso/rails/React-app/acf-front/next-env.d.ts",
+  "/home/croy/Perso/rails/React-app/acf-front/pages/api/hello.ts",
+  "/home/croy/Perso/rails/React-app/acf-front/components/ACF.tsx",
+  "/home/croy/Perso/rails/React-app/acf-front/components/Event.tsx",
+  "/home/croy/Perso/rails/React-app/acf-front/components/Events.tsx",
+  "/home/croy/Perso/rails/React-app/acf-front/pages/_app.tsx",
+  "/home/croy/Perso/rails/React-app/acf-front/pages/index.tsx"
+ ],
+ "options": {
+  "target": 1,
+  "lib": [
+   "lib.dom.d.ts",
+   "lib.dom.iterable.d.ts",
+   "lib.esnext.d.ts"
+  ],
+  "allowJs": true,
+  "skipLibCheck": true,
+  "strict": true,
+  "forceConsistentCasingInFileNames": true,
+  "noEmit": true,
+  "esModuleInterop": true,
+  "module": 99,
+  "moduleResolution": 2,
+  "resolveJsonModule": true,
+  "isolatedModules": true,
+  "jsx": 1,
+  "incremental": true,
+  "configFilePath": "/home/croy/Perso/rails/React-app/acf-front/tsconfig.json"
+ }
+}
+Info 69   [23:17:02.759] Starting updateGraphWorker: Project: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json
+Info 70   [23:17:04.049] Finishing updateGraphWorker: Project: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json Version: 1 structureChanged: true structureIsReused:: Not Elapsed: 1290.0911539997905ms
+Info 71   [23:17:04.049] Project '/home/croy/Perso/rails/React-app/acf-front/tsconfig.json' (Configured)
+Info 72   [23:17:04.049] 	Files (200)
+
+Info 73   [23:17:04.049] -----------------------------------------------
+Info 74   [23:17:04.070] DirectoryWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front/node_modules :: WatchInfo: /home/croy/Perso/rails/React-app/acf-front/node_modules 1 undefined WatchType: node_modules for closed script infos and package.jsons affecting module specifier cache
+Info 75   [23:17:04.072] Elapsed:: 1.8084110002964735ms DirectoryWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front/node_modules :: WatchInfo: /home/croy/Perso/rails/React-app/acf-front/node_modules 1 undefined WatchType: node_modules for closed script infos and package.jsons affecting module specifier cache
+Info 76   [23:17:04.072] DirectoryWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front/node_modules :: WatchInfo: /home/croy/Perso/rails/React-app/acf-front/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 77   [23:17:04.073] Elapsed:: 0.41736700013279915ms DirectoryWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front/node_modules :: WatchInfo: /home/croy/Perso/rails/React-app/acf-front/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 78   [23:17:04.073] DirectoryWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front/node_modules :: WatchInfo: /home/croy/Perso/rails/React-app/acf-front/node_modules 1 undefined Project: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json WatchType: Failed Lookup Locations
+Info 79   [23:17:04.073] Elapsed:: 0.15835800021886826ms DirectoryWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front/node_modules :: WatchInfo: /home/croy/Perso/rails/React-app/acf-front/node_modules 1 undefined Project: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json WatchType: Failed Lookup Locations
+Info 80   [23:17:04.073] DirectoryWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front/node_modules/@types :: WatchInfo: /home/croy/Perso/rails/React-app/acf-front/node_modules/@types 1 undefined Project: /dev/null/inferredProject1* WatchType: Type roots
+Info 81   [23:17:04.074] Elapsed:: 0.43867800012230873ms DirectoryWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front/node_modules/@types :: WatchInfo: /home/croy/Perso/rails/React-app/acf-front/node_modules/@types 1 undefined Project: /dev/null/inferredProject1* WatchType: Type roots
+Info 82   [23:17:04.074] DirectoryWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front/node_modules/@types :: WatchInfo: /home/croy/Perso/rails/React-app/acf-front/node_modules/@types 1 undefined Project: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json WatchType: Type roots
+Info 83   [23:17:04.074] Elapsed:: 0.12476800009608269ms DirectoryWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front/node_modules/@types :: WatchInfo: /home/croy/Perso/rails/React-app/acf-front/node_modules/@types 1 undefined Project: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json WatchType: Type roots
+Info 84   [23:17:04.074] DirectoryWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front :: WatchInfo: /home/croy/Perso/rails/React-app/acf-front 1 undefined Config: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json WatchType: Wild card directory
+Info 85   [23:17:04.075] Elapsed:: 0.5228709988296032ms DirectoryWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front :: WatchInfo: /home/croy/Perso/rails/React-app/acf-front 1 undefined Config: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json WatchType: Wild card directory
+Info 86   [23:17:04.324] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 87   [23:17:04.330] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 3 structureChanged: true structureIsReused:: Not Elapsed: 6.53914500027895ms
+Info 88   [23:17:04.331] Project '/dev/null/inferredProject1*' (Inferred)
+Info 89   [23:17:04.331] 	Files (0)
+
+Info 90   [23:17:04.331] -----------------------------------------------
+Info 91   [23:17:04.331] Project '/dev/null/autoImportProviderProject1*' (AutoImportProvider)
+Info 92   [23:17:04.331] 	Files (1)
+
+Info 93   [23:17:04.331] -----------------------------------------------
+Info 94   [23:17:04.347] Starting updateGraphWorker: Project: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json
+Info 95   [23:17:04.501] Finishing updateGraphWorker: Project: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json Version: 2 structureChanged: true structureIsReused:: SafeModules Elapsed: 153.3536660000682ms
+Info 96   [23:17:04.501] Different program with same set of files
+Info 97   [23:17:06.835] Before ensureProjectForOpenFiles:
+Info 98   [23:17:06.835] After ensureProjectForOpenFiles:
+Info 99   [23:17:06.835] got projects updated in background, updating diagnostics for /home/croy/Perso/rails/React-app/acf-front/components/Event.tsx
+Info 100  [23:17:45.176] DirectoryWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front/.next/static/development/_middlewareManifest.js :: WatchInfo: /home/croy/Perso/rails/React-app/acf-front 1 undefined Config: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json WatchType: Wild card directory
+Info 101  [23:17:45.177] Elapsed:: 0.7036809995770454ms DirectoryWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front/.next/static/development/_middlewareManifest.js :: WatchInfo: /home/croy/Perso/rails/React-app/acf-front 1 undefined Config: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json WatchType: Wild card directory
+Info 102  [23:17:45.177] DirectoryWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front/.next/static/development/_ssgManifest.js :: WatchInfo: /home/croy/Perso/rails/React-app/acf-front 1 undefined Config: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json WatchType: Wild card directory
+Info 103  [23:17:45.178] Elapsed:: 0.3359709996730089ms DirectoryWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front/.next/static/development/_ssgManifest.js :: WatchInfo: /home/croy/Perso/rails/React-app/acf-front 1 undefined Config: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json WatchType: Wild card directory
+Info 104  [23:17:45.178] DirectoryWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front/.next/static/webpack/5f05329ee8160c0d.webpack.hot-update.json :: WatchInfo: /home/croy/Perso/rails/React-app/acf-front 1 undefined Config: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json WatchType: Wild card directory
+Info 105  [23:17:45.178] Elapsed:: 0.16839100047945976ms DirectoryWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front/.next/static/webpack/5f05329ee8160c0d.webpack.hot-update.json :: WatchInfo: /home/croy/Perso/rails/React-app/acf-front 1 undefined Config: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json WatchType: Wild card directory
+Info 106  [23:17:45.178] DirectoryWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front/.next/static/webpack/a52d6708d7609a98.webpack.hot-update.json :: WatchInfo: /home/croy/Perso/rails/React-app/acf-front 1 undefined Config: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json WatchType: Wild card directory
+Info 107  [23:17:45.178] Elapsed:: 0.1446740012615919ms DirectoryWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front/.next/static/webpack/a52d6708d7609a98.webpack.hot-update.json :: WatchInfo: /home/croy/Perso/rails/React-app/acf-front 1 undefined Config: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json WatchType: Wild card directory
+Info 108  [23:17:45.178] DirectoryWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front/.next/static/webpack/webpack.5f05329ee8160c0d.hot-update.js :: WatchInfo: /home/croy/Perso/rails/React-app/acf-front 1 undefined Config: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json WatchType: Wild card directory
+Info 109  [23:17:45.179] Elapsed:: 0.1794889997690916ms DirectoryWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front/.next/static/webpack/webpack.5f05329ee8160c0d.hot-update.js :: WatchInfo: /home/croy/Perso/rails/React-app/acf-front 1 undefined Config: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json WatchType: Wild card directory
+Info 110  [23:17:45.179] DirectoryWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front/.next/static/webpack/webpack.a52d6708d7609a98.hot-update.js :: WatchInfo: /home/croy/Perso/rails/React-app/acf-front 1 undefined Config: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json WatchType: Wild card directory
+Info 111  [23:17:45.179] Elapsed:: 0.1684510000050068ms DirectoryWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front/.next/static/webpack/webpack.a52d6708d7609a98.hot-update.js :: WatchInfo: /home/croy/Perso/rails/React-app/acf-front 1 undefined Config: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json WatchType: Wild card directory
+Info 112  [23:17:45.179] DirectoryWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front/.next/server/pages :: WatchInfo: /home/croy/Perso/rails/React-app/acf-front 1 undefined Config: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json WatchType: Wild card directory
+Info 113  [23:17:45.179] Elapsed:: 0.12262500077486038ms DirectoryWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front/.next/server/pages :: WatchInfo: /home/croy/Perso/rails/React-app/acf-front 1 undefined Config: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json WatchType: Wild card directory
+Info 114  [23:17:45.180] DirectoryWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front/.next/server/pages :: WatchInfo: /home/croy/Perso/rails/React-app/acf-front 1 undefined Config: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json WatchType: Wild card directory
+Info 115  [23:17:45.180] Elapsed:: 0.1235910002142191ms DirectoryWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front/.next/server/pages :: WatchInfo: /home/croy/Perso/rails/React-app/acf-front 1 undefined Config: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json WatchType: Wild card directory
+Info 116  [23:17:45.180] DirectoryWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front/.next/static/chunks/pages/_app.js :: WatchInfo: /home/croy/Perso/rails/React-app/acf-front 1 undefined Config: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json WatchType: Wild card directory
+Info 117  [23:17:45.181] Elapsed:: 0.13432500138878822ms DirectoryWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front/.next/static/chunks/pages/_app.js :: WatchInfo: /home/croy/Perso/rails/React-app/acf-front 1 undefined Config: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json WatchType: Wild card directory
+Info 118  [23:17:45.181] DirectoryWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front/.next/static/chunks/pages/_error.js :: WatchInfo: /home/croy/Perso/rails/React-app/acf-front 1 undefined Config: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json WatchType: Wild card directory
+Info 119  [23:17:45.181] Elapsed:: 0.11984800174832344ms DirectoryWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front/.next/static/chunks/pages/_error.js :: WatchInfo: /home/croy/Perso/rails/React-app/acf-front 1 undefined Config: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json WatchType: Wild card directory
+Info 120  [23:17:45.181] DirectoryWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front/.next/static/chunks/pages/index.js :: WatchInfo: /home/croy/Perso/rails/React-app/acf-front 1 undefined Config: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json WatchType: Wild card directory
+Info 121  [23:17:45.181] Elapsed:: 0.11267800070345402ms DirectoryWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front/.next/static/chunks/pages/index.js :: WatchInfo: /home/croy/Perso/rails/React-app/acf-front 1 undefined Config: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json WatchType: Wild card directory
+Info 122  [23:17:45.181] DirectoryWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front/.next/static/development :: WatchInfo: /home/croy/Perso/rails/React-app/acf-front 1 undefined Config: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json WatchType: Wild card directory
+Info 123  [23:17:45.181] Elapsed:: 0.09625199995934963ms DirectoryWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front/.next/static/development :: WatchInfo: /home/croy/Perso/rails/React-app/acf-front 1 undefined Config: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json WatchType: Wild card directory
+Info 124  [23:17:45.181] DirectoryWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front/.next/static/development :: WatchInfo: /home/croy/Perso/rails/React-app/acf-front 1 undefined Config: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json WatchType: Wild card directory
+Info 125  [23:17:45.182] Elapsed:: 0.14955899864435196ms DirectoryWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front/.next/static/development :: WatchInfo: /home/croy/Perso/rails/React-app/acf-front 1 undefined Config: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json WatchType: Wild card directory
+Info 126  [23:17:45.182] DirectoryWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front/.next/static/webpack :: WatchInfo: /home/croy/Perso/rails/React-app/acf-front 1 undefined Config: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json WatchType: Wild card directory
+Info 127  [23:17:45.182] Elapsed:: 0.12860400043427944ms DirectoryWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front/.next/static/webpack :: WatchInfo: /home/croy/Perso/rails/React-app/acf-front 1 undefined Config: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json WatchType: Wild card directory
+Info 128  [23:17:45.182] DirectoryWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front/.next/server :: WatchInfo: /home/croy/Perso/rails/React-app/acf-front 1 undefined Config: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json WatchType: Wild card directory
+Info 129  [23:17:45.182] Elapsed:: 0.10859099961817265ms DirectoryWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front/.next/server :: WatchInfo: /home/croy/Perso/rails/React-app/acf-front 1 undefined Config: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json WatchType: Wild card directory
+Info 130  [23:17:45.183] DirectoryWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front/.next/static/chunks :: WatchInfo: /home/croy/Perso/rails/React-app/acf-front 1 undefined Config: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json WatchType: Wild card directory
+Info 131  [23:17:45.183] Elapsed:: 0.1049990002065897ms DirectoryWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front/.next/static/chunks :: WatchInfo: /home/croy/Perso/rails/React-app/acf-front 1 undefined Config: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json WatchType: Wild card directory
+Info 132  [23:17:45.183] DirectoryWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front/.next/static :: WatchInfo: /home/croy/Perso/rails/React-app/acf-front 1 undefined Config: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json WatchType: Wild card directory
+Info 133  [23:17:45.183] Elapsed:: 0.1322189997881651ms DirectoryWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front/.next/static :: WatchInfo: /home/croy/Perso/rails/React-app/acf-front 1 undefined Config: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json WatchType: Wild card directory
+Info 134  [23:17:45.441] Starting updateGraphWorker: Project: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json
+Info 135  [23:17:45.444] Finishing updateGraphWorker: Project: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json Version: 3 structureChanged: false structureIsReused:: SafeModules Elapsed: 2.9750819988548756ms
+Info 136  [23:17:47.685] Before ensureProjectForOpenFiles:
+Info 137  [23:17:47.685] After ensureProjectForOpenFiles:
+Info 138  [23:17:47.685] got projects updated in background, updating diagnostics for /home/croy/Perso/rails/React-app/acf-front/components/Event.tsx
+Info 139  [23:17:47.758] DirectoryWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front :: WatchInfo: /home/croy/Perso/rails/React-app/acf-front 1 undefined Config: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json WatchType: Wild card directory
+Info 140  [23:17:47.758] Elapsed:: 0.10783099941909313ms DirectoryWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front :: WatchInfo: /home/croy/Perso/rails/React-app/acf-front 1 undefined Config: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json WatchType: Wild card directory
+Info 141  [23:17:47.791] Starting updateGraphWorker: Project: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json
+Info 142  [23:17:47.792] Finishing updateGraphWorker: Project: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json Version: 4 structureChanged: false structureIsReused:: SafeModules Elapsed: 0.9116130005568266ms
+Info 143  [23:17:50.258] Before ensureProjectForOpenFiles:
+Info 144  [23:17:50.259] After ensureProjectForOpenFiles:
+Info 145  [23:17:50.259] got projects updated in background, updating diagnostics for /home/croy/Perso/rails/React-app/acf-front/components/Event.tsx
+Info 146  [23:17:51.180] DirectoryWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front :: WatchInfo: /home/croy/Perso/rails/React-app/acf-front 1 undefined Config: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json WatchType: Wild card directory
+Info 147  [23:17:51.180] Elapsed:: 0.10686699859797955ms DirectoryWatcher:: Triggered with /home/croy/Perso/rails/React-app/acf-front :: WatchInfo: /home/croy/Perso/rails/React-app/acf-front 1 undefined Config: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json WatchType: Wild card directory
+Info 148  [23:17:51.438] Starting updateGraphWorker: Project: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json
+Info 149  [23:17:51.439] Finishing updateGraphWorker: Project: /home/croy/Perso/rails/React-app/acf-front/tsconfig.json Version: 5 structureChanged: false structureIsReused:: SafeModules Elapsed: 0.8367660008370876ms
+Info 150  [23:17:53.682] Before ensureProjectForOpenFiles:
+Info 151  [23:17:53.683] After ensureProjectForOpenFiles:
+Info 152  [23:17:53.683] got projects updated in background, updating diagnostics for /home/croy/Perso/rails/React-app/acf-front/components/Event.tsx

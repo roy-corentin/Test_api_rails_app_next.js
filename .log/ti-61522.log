@@ -1,0 +1,47 @@
+[23:13:14.450] Global cache location '/home/croy/.cache/typescript/4.6', safe file path '/home/croy/Perso/rails/React-app/acf-front/node_modules/typescript/lib/typingSafeList.json', types map path /home/croy/Perso/rails/React-app/acf-front/node_modules/typescript/lib/typesMap.json
+[23:13:14.451] Processing cache location '/home/croy/.cache/typescript/4.6'
+[23:13:14.451] Trying to find '/home/croy/.cache/typescript/4.6/package.json'...
+[23:13:14.456] Loaded content of '/home/croy/.cache/typescript/4.6/package.json': {"private":true,"dependencies":{"types-registry":"^0.1.589"},"devDependencies":{"@types/electron-devtools-installer":"^2.2.1","@types/eslint":"^8.4.1","@types/eslint-config-prettier":"^6.11.0","@types/node":"^17.0.26","@types/prettier":"^2.6.0","@types/react":"^18.0.6","@types/react-dom":"^18.0.2","@types/tailwindcss":"^3.0.10","@types/testing-library__jest-dom":"^5.14.3"}}
+[23:13:14.457] Loaded content of '/home/croy/.cache/typescript/4.6/package-lock.json'
+[23:13:14.468] Adding entry into typings cache: 'electron-devtools-installer' => '/home/croy/.cache/typescript/4.6/node_modules/@types/electron-devtools-installer/index.d.ts'
+[23:13:14.471] Adding entry into typings cache: 'eslint' => '/home/croy/.cache/typescript/4.6/node_modules/@types/eslint/index.d.ts'
+[23:13:14.473] Adding entry into typings cache: 'eslint-config-prettier' => '/home/croy/.cache/typescript/4.6/node_modules/@types/eslint-config-prettier/index.d.ts'
+[23:13:14.482] Adding entry into typings cache: 'node' => '/home/croy/.cache/typescript/4.6/node_modules/@types/node/index.d.ts'
+[23:13:14.485] Adding entry into typings cache: 'prettier' => '/home/croy/.cache/typescript/4.6/node_modules/@types/prettier/index.d.ts'
+[23:13:14.494] Adding entry into typings cache: 'react' => '/home/croy/.cache/typescript/4.6/node_modules/@types/react/index.d.ts'
+[23:13:14.498] Adding entry into typings cache: 'react-dom' => '/home/croy/.cache/typescript/4.6/node_modules/@types/react-dom/index.d.ts'
+[23:13:14.499] Adding entry into typings cache: 'tailwindcss' => '/home/croy/.cache/typescript/4.6/node_modules/@types/tailwindcss/index.d.ts'
+[23:13:14.501] Adding entry into typings cache: 'testing-library__jest-dom' => '/home/croy/.cache/typescript/4.6/node_modules/@types/testing-library__jest-dom/index.d.ts'
+[23:13:14.502] Finished processing cache location '/home/croy/.cache/typescript/4.6'
+[23:13:14.502] Process id: 61529
+[23:13:14.502] NPM location: /usr/bin/npm (explicit '--npmLocation' not  provided)
+[23:13:14.502] validateDefaultNpmLocation: false
+[23:13:14.502] Npm config file: /home/croy/.cache/typescript/4.6/package.json
+[23:13:14.502] Updating types-registry npm package...
+[23:13:14.503] Exec: /usr/bin/npm install --ignore-scripts types-registry@latest
+[23:13:15.661]     Succeeded. stdout:
+    
+    up to date, audited 31 packages in 858ms
+
+3 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+[23:13:15.662] Updated types-registry npm package
+[23:17:04.506] Got install request {"projectName":"/dev/null/inferredProject1*","fileNames":[],"compilerOptions":{"module":1,"target":3,"jsx":1,"allowJs":true,"allowSyntheticDefaultImports":true,"allowNonTsExtensions":true,"noEmitForJsFiles":true},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":[],"projectRootPath":"/home/croy/Perso/rails/React-app/acf-front/components","kind":"discover"}
+[23:17:04.550] Loaded safelist from types map file '/home/croy/Perso/rails/React-app/acf-front/node_modules/typescript/lib/typesMap.json'
+[23:17:04.550] Explicitly included types: []
+[23:17:04.551] Inferred typings from unresolved imports: []
+[23:17:04.551] Result: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/home/croy/Perso/rails/React-app/acf-front/components/bower_components","/home/croy/Perso/rails/React-app/acf-front/components/node_modules"]}
+[23:17:04.551] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/home/croy/Perso/rails/React-app/acf-front/components/bower_components","/home/croy/Perso/rails/React-app/acf-front/components/node_modules"]}
+[23:17:04.552] DirectoryWatcher:: Added:: WatchInfo: /home/croy/Perso/rails/React-app/acf-front/components/bower_components
+[23:17:04.553] DirectoryWatcher:: Added:: WatchInfo: /home/croy/Perso/rails/React-app/acf-front/components/bower_components 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[23:17:04.556] Elapsed:: 2.7934579998254776ms DirectoryWatcher:: Added:: WatchInfo: /home/croy/Perso/rails/React-app/acf-front/components/bower_components 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[23:17:04.556] DirectoryWatcher:: Added:: WatchInfo: /home/croy/Perso/rails/React-app/acf-front/components/node_modules
+[23:17:04.556] DirectoryWatcher:: Added:: WatchInfo: /home/croy/Perso/rails/React-app/acf-front/components/node_modules 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[23:17:04.556] Elapsed:: 0.2579169999808073ms DirectoryWatcher:: Added:: WatchInfo: /home/croy/Perso/rails/React-app/acf-front/components/node_modules 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[23:17:04.557] Sending response:
+    {"projectName":"/dev/null/inferredProject1*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"module":1,"target":3,"jsx":1,"allowJs":true,"allowSyntheticDefaultImports":true,"allowNonTsExtensions":true,"noEmitForJsFiles":true},"typings":[],"unresolvedImports":[],"kind":"action::set"}
+[23:17:04.557] Response has been sent.
+[23:17:04.557] No new typings were requested as a result of typings discovery
